@@ -12,7 +12,4 @@
 ![](https://streak-stats.demolab.com/?user=Master0-code&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Master0-code&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Master0-code&repo=Master0-code)](https://github.com/Master0-code/Master0-code)
 
-[![Top Contributed Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Master0-code&layout=compact&hide_progress=false)](https://github.com/Master0-code)
