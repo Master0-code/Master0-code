@@ -1,4 +1,3 @@
-[ReadMe (1).md](https://github.com/user-attachments/files/32198925/ReadMe.1.md)
 # 💫 About Me:
 🔨 I'm currently working on: LocalCamp — a local file and media management application<br>🤝 I'm looking to collaborate on: Open-source applications<br>🆘 I'm looking for help with: Understanding advanced machine learning concepts<br>📚 I'm currently learning: Machine learning, LLMs, Python, SQL / MySQL, Linux, Git & GitHub<br>⚡ Fun fact: I like turning random ideas into actual projects just to see if I can make them work.
 
